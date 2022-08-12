@@ -1,0 +1,1 @@
+window.alert("Hello World (✝Sai pra lá maldição✝)")
